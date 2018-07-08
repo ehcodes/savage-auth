@@ -1,5 +1,7 @@
 # 21 Savage Hater Forum
 
+![21 savage meme](https://raw.githubusercontent.com/ehcodes/savage-auth/master/public/img/21sav.png)
+
 ## Installation
 
 1. Clone repo
@@ -9,8 +11,6 @@
 
 1. run `node server.js`
 2. Navigate to `localhost:8080`
-
-![screenshot of login page](https://raw.githubusercontent.com/ehcodes/savage-auth/master/public/img/21sav.png)
 
 ## How It's Made:
 

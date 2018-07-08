@@ -10,7 +10,7 @@
 1. run `node server.js`
 2. Navigate to `localhost:8080`
 
-![screenshot of login page]()
+![screenshot of login page](https://raw.githubusercontent.com/ehcodes/savage-auth/master/public/img/21sav.png)
 
 ## How It's Made:
 
